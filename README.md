@@ -1,6 +1,6 @@
 # Projeto final de Banco de Dados - Locadora de Carros
 ## Sumário
-### 1. [Descrição do Projeto](#descricao-do-projeto)
+### 1. [Descrição do Projeto](#descrição-do-projeto)
 ### 2. [Modelo Relacional](#modelo-relacional)
 ### 3. [Modelo Lógico](#modelo-logico)
 ### 4. [Modelo Físico](#modelo-fisico)
