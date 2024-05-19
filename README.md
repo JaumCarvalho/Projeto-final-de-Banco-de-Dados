@@ -54,9 +54,10 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
 ### Modelo Relacional
 
 <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20relacional.png">
+<a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20relacional.pdf">PDF</a>
 
 ### Modelo Lógico
-
+<img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20l%C3%B3gico.png">
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20l%C3%B3gico.pdf">Clique para acessá-lo</a>
 
 ### Modelo Físico
@@ -64,4 +65,5 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
   <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20f%C3%ADsico/scripts%20sql/locadora_script_criacao.sql">Script de criação</a></li>
   <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20f%C3%ADsico/scripts%20sql/locadora_script_povoa.sql">Script de povoamento</a></li>
 </ul>
+
 ### Consultas feitas
