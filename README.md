@@ -70,7 +70,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
 ## Consultas feitas
 <ol>
   <li>
-    ### Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com
+    Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com
     <ul>
       <li>
         Resultado antes da consulta ser feita:
@@ -96,6 +96,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
   <li>
     Deletar todos os clientes que iniciam seu nome com a letra J
     <ul>
@@ -109,6 +110,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
   <li>
     Após deletar, verifique a integridade do banco ao consultar a tabela locação, visto que José havia feito uma locação e ele foi deletado
     <ul>
@@ -122,6 +124,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
   <li>
     Listar todos os carros que estão disponíveis para locação
     <ul>
@@ -135,6 +138,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
   <li>
     Listar o nome das agências e seus respectivos endereços completos
     <ul>
@@ -148,6 +152,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
   <li>
     Listar nome, cargo e salario de todos os funcionários
     <ul>
@@ -161,6 +166,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
   <li>
     Listar nome, nome do cargo e nome da agencia que o funcionário trabalha
     <ul>
@@ -174,6 +180,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
   <li>
     Listar o nome e telefone dos funcionários da agência Locadora do Romão
     <ul>
@@ -187,6 +194,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
   <li>
     Listar o id, a data e hora, o id do aluguel, o nome do funcionário e o nome da agência de todas as locações
     <ul>
@@ -200,6 +208,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
 </ol>
 
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/script_de_consultas.sql">Script completo de consultas feitas</a>
