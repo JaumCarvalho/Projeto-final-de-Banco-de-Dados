@@ -75,11 +75,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src"https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20antes.png">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src"https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20depois.png">
       </li>
     </ul>
   </li>
@@ -202,4 +202,4 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
   </li>
 </ol>
 
-<a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20f%C3%ADsico/scripts%20sql/locadora_script_de_consultas.sql">Script completo de consultas feitas</a>
+<a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/script_de_consultas.sql">Script completo de consultas feitas</a>
