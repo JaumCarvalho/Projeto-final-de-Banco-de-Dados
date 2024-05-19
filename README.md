@@ -67,3 +67,37 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
 </ul>
 
 ### Consultas feitas
+<a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20f%C3%ADsico/scripts%20sql/locadora_script_de_consultas.sql">Script completo de consultas feitas</a>
+
+<ol>
+  <li>
+    Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com
+  </li>
+  <li>
+    Aumentar o salario dos mecânicos de todas as agências em 5%
+  </li>
+  <li>
+    Deletar todos os clientes que iniciam seu nome com a letra J
+  </li>
+  <li>
+    Após deletar, verifique a integridade do banco ao consultar a tabela locação, visto que José havia feito uma locação e ele foi deletado
+  </li>
+  <li>
+    Listar todos os carros que estão disponíveis para locação
+  </li>
+  <li>
+    Listar o nome das agências e seus respectivos endereços completos
+  </li>
+  <li>
+    Listar nome, cargo e salario de todos os funcionários
+  </li>
+  <li>
+    Listar nome, nome do cargo e nome da agencia que o funcionário trabalha
+  </li>
+  <li>
+    Listar o nome e telefone dos funcionários da agência Locadora do Ro
+  </li>
+  <li>
+    Listar o id, a data e hora, o id do aluguel, o nome do funcionário e o nome da agência de todas as locações
+  </li>
+</ol>
