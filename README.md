@@ -162,7 +162,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/7%20consulta%20-%20adepois.png">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/7%20consulta%20-%20depois.png">
       </li>
     </ul>
   </li>
