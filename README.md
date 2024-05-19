@@ -1,4 +1,4 @@
-# Projeto final de Banco de Dados - Locadora de Carros
+# :house_with_garden: Projeto final de Banco de Dados - Locadora de Carros
 ## Sumário
 ### 1. [Descrição do Projeto](#descrição-do-projeto)
 ### 2. [Modelo Relacional](#modelo-relacional)
