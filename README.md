@@ -75,11 +75,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20antes.png">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20antes.png">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20depois.png">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20depois.png">
       </li>
     </ul>
   </li>
@@ -88,11 +88,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
     </ul>
   </li>
@@ -101,11 +101,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
     </ul>
   </li>
@@ -114,11 +114,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
     </ul>
   </li>
@@ -127,11 +127,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
     </ul>
   </li>
@@ -140,11 +140,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
     </ul>
   </li>
@@ -153,11 +153,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
     </ul>
   </li>
@@ -166,11 +166,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
     </ul>
   </li>
@@ -179,11 +179,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
     </ul>
   </li>
@@ -192,11 +192,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src"">
+        <img src="">
       </li>
     </ul>
   </li>
