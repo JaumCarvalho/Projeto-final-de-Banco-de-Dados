@@ -260,5 +260,5 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     </ul>
   </li>
   <hr>
-</ol>
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/script_de_consultas.sql">Script completo de consultas feitas</a>
+</ol>
