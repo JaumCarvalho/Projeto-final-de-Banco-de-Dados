@@ -87,7 +87,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Aumentar o salario dos mecânicos de todas as agências em 5%
     <ul>
       <li>
-        <div>
+        <div style="display: flex">
           <p>Resultado antes da consulta ser feita:</p>
           <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/2%20consulta%20-%20antes.png">
         </div>
