@@ -55,7 +55,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
 
 <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20relacional.png">
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20relacional.pdf">Acessar Modelo Relacional em PDF</a>
-<br>
+<hr>
 
 ### Modelo Lógico
 <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20l%C3%B3gico.png">
