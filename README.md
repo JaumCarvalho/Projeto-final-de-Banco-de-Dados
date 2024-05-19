@@ -4,13 +4,15 @@
 Este projeto da disciplina de Banco de Dados I, consiste em uma locadora de carros baseada em cinco entidades principais: Cliente, Carro, Aluguel, Funcionário e Agência. Essas entidades estão interligadas por meio de relacionamentos que refletem as operações da locadora, como aluguéis de carros, processamento de aluguéis e atribuição de funcionários às agências.
 
 Cliente contém os seguintes dados armazenados:
-cpf
-cnh
-nome
+<ul>
+<li>cpf</li>
+<li>cnh</li>
+<li>nome</li>
+
 telefone (um ou mais, para caso o principal não funcione)
 email
 endereço (logradouro, número, bairro e cep)
-
+</ul>
 Funcionário contém os seguintes dados armazenados (além de seu identificador):
 cpf
 nome
@@ -46,3 +48,4 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
 ### Modelo Relacional
 ### Modelo Lógico
 ### Modelo Físico
+### Consultas feitas
