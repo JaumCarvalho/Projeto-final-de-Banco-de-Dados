@@ -214,7 +214,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
   </li>
   <hr>
   <li>
-    Listar o nome e telefone dos funcionários da agência Locadora do Romão
+    <strong>Listar o nome e telefone dos funcionários da agência Locadora do Romão</strong>
     <ul>
       <li>
         <div style="display: flex; flex-direction: column;justify-content: flex-start">
