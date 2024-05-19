@@ -73,14 +73,10 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com
     <ul>
       <li>
-        <br>
-        <br>
         Resultado antes da consulta ser feita:
         <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20antes.png">
       </li>
       <li>
-        <br>
-        <br>
         Resultado após a consulta ser feita:
         <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20depois.png">
       </li>
@@ -91,16 +87,10 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Aumentar o salario dos mecânicos de todas as agências em 5%
     <ul>
       <li>
-        <br>
-        <br>
         Resultado antes da consulta ser feita:
-        <br>
-        <br>
         <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/2%20consulta%20-%20antes.png">
       </li>
       <li>
-        <br>
-        <br>
         Resultado após a consulta ser feita:
         <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/2%20consulta%20-%20depois.png">
       </li>
@@ -111,14 +101,10 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Deletar todos os clientes que iniciam seu nome com a letra J
     <ul>
       <li>
-        <br>
-        <br>
         Resultado antes da consulta ser feita:
         <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/3%20consulta%20-%20antes.png">
       </li>
       <li>
-        <br>
-        <br>
         Resultado após a consulta ser feita:
         <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/3%20consulta%20-%20depois.png">
       </li>
@@ -129,16 +115,12 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Após deletar, verifique a integridade do banco ao consultar a tabela locação, visto que José havia feito uma locação e ele foi deletado
     <ul>
       <li>
-        <br>
-        <br>
         Resultado antes da consulta ser feita:
         <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/4%20consulta%20-%20antes.png">
       </li>
       <li>  
-        <br>
-        <br>
         Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/2%20consulta%20-%20depois.png">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/4%20consulta%20-%20depois.png">
       </li>
     </ul>
   </li>
@@ -148,11 +130,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/5%20consulta%20-%20antes.png">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/5%20consulta%20-%20depois.png">
       </li>
     </ul>
   </li>
@@ -162,11 +144,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/6%20consulta%20-%20antes.png">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/6%20consulta%20-%20depois.png">
       </li>
     </ul>
   </li>
@@ -176,11 +158,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/7%20consulta%20-%20antes.png">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/7%20consulta%20-%20adepois.png">
       </li>
     </ul>
   </li>
@@ -190,11 +172,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/8%20consulta%20-%20antes.png">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/8%20consulta%20-%20depois.png">
       </li>
     </ul>
   </li>
@@ -204,11 +186,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/9%20consulta%20-%20antes.png">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/9%20consulta%20-%20depois.png">
       </li>
     </ul>
   </li>
@@ -218,11 +200,11 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     <ul>
       <li>
         Resultado antes da consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/10%20consulta%20-%20antes.png">
       </li>
       <li>   
         Resultado após a consulta ser feita:
-        <img src="">
+        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/10%20consulta%20-%20depois.png">
       </li>
     </ul>
   </li>
