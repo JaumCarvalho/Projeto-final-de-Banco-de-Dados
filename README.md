@@ -68,7 +68,6 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
 </ul>
 
 ## Consultas feitas
-<div display="flex" justify-content="flex-start">
 <ol>
   <li>
     Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com
@@ -88,8 +87,10 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Aumentar o salario dos mecânicos de todas as agências em 5%
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/2%20consulta%20-%20antes.png">
+        <div>
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/2%20consulta%20-%20antes.png">
+        </div>
       </li>
       <li>
         Resultado após a consulta ser feita:
@@ -211,5 +212,4 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
   </li>
   <hr>
 </ol>
-</div>
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/script_de_consultas.sql">Script completo de consultas feitas</a>
