@@ -1,6 +1,5 @@
-# Projeto final de Banco de Dados
-## Locadora de Carros
-### Descrição do Projeto
+# Projeto final de Banco de Dados - Locadora de Carros
+## Descrição do Projeto
 Este projeto da disciplina de Banco de Dados I, consiste em uma locadora de carros baseada em cinco entidades principais: Cliente, Carro, Aluguel, Funcionário e Agência. Essas entidades estão interligadas por meio de relacionamentos que refletem as operações da locadora, como aluguéis de carros, processamento de aluguéis e atribuição de funcionários às agências.
 
 Cliente contém os seguintes dados armazenados:
@@ -51,27 +50,27 @@ O funcionário pode não ter processado nenhum aluguel na agência em que trabal
 Um carro não pode ser arrendado a um aluguel caso não seja feito um aluguel por algum cliente.
 O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários aluguéis de diferentes carros. O cliente pode não fazer o aluguel de um carro caso os que estejam disponíveis não lhe interessem ou em manutenção.
 
-### Modelo Relacional
+## Modelo Relacional
 
 <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20relacional.png">
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20relacional.pdf">Acessar Modelo Relacional em PDF</a>
 <hr>
 
-### Modelo Lógico
+## Modelo Lógico
 <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20l%C3%B3gico.png">
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20l%C3%B3gico.pdf">Acessar Modelo Lógico em PDF</a>
-<br>
+<hr>
 
-### Modelo Físico
+## Modelo Físico
 <ul>
   <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20f%C3%ADsico/scripts%20sql/locadora_script_criacao.sql">Script de criação</a></li>
   <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20f%C3%ADsico/scripts%20sql/locadora_script_povoa.sql">Script de povoamento</a></li>
 </ul>
 
-### Consultas feitas
+## Consultas feitas
 <ol>
   <li>
-    Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com
+    ### Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com
     <ul>
       <li>
         Resultado antes da consulta ser feita:
@@ -83,6 +82,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
       </li>
     </ul>
   </li>
+  <hr>
   <li>
     Aumentar o salario dos mecânicos de todas as agências em 5%
     <ul>
