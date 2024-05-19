@@ -73,12 +73,16 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20antes.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20antes.png">
+        </div>
       </li>
       <li>
-        Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20depois.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado após a consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/1%20consulta%20-%20depois.png">
+        </div>
       </li>
     </ul>
   </li>
@@ -105,12 +109,16 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Deletar todos os clientes que iniciam seu nome com a letra J
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/3%20consulta%20-%20antes.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/3%20consulta%20-%20antes.png">
+        </div>
       </li>
       <li>
-        Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/3%20consulta%20-%20depois.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado após a consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/3%20consulta%20-%20depois.png">
+        </div>
       </li>
     </ul>
   </li>
@@ -119,12 +127,16 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Após deletar, verifique a integridade do banco ao consultar a tabela locação, visto que José havia feito uma locação e ele foi deletado
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/4%20consulta%20-%20antes.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/4%20consulta%20-%20antes.png">
+        </div>
       </li>
-      <li>  
-        Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/4%20consulta%20-%20depois.png">
+      <li>
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado após a consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/4%20consulta%20-%20depois.png">
+        </div>
       </li>
     </ul>
   </li>
@@ -133,12 +145,16 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Listar todos os carros que estão disponíveis para locação
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/5%20consulta%20-%20antes.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/5%20consulta%20-%20antes.png">
+        </div>
       </li>
-      <li>   
-        Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/5%20consulta%20-%20depois.png">
+      <li>
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado após a consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/5%20consulta%20-%20depois.png">
+        </div>
       </li>
     </ul>
   </li>
@@ -147,12 +163,16 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Listar o nome das agências e seus respectivos endereços completos
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/6%20consulta%20-%20antes.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/6%20consulta%20-%20antes.png">
+        </div>
       </li>
-      <li>   
-        Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/6%20consulta%20-%20depois.png">
+      <li>
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado após a consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/6%20consulta%20-%20depois.png">
+        </div>
       </li>
     </ul>
   </li>
@@ -161,12 +181,16 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Listar nome, cargo e salario de todos os funcionários
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/7%20consulta%20-%20antes.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/7%20consulta%20-%20antes.png">
+        </div>
       </li>
-      <li>   
-        Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/7%20consulta%20-%20depois.png">
+      <li>
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado após a consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/7%20consulta%20-%20depois.png">
+        </div>
       </li>
     </ul>
   </li>
@@ -175,12 +199,16 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Listar nome, nome do cargo e nome da agencia que o funcionário trabalha
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/8%20consulta%20-%20antes.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/8%20consulta%20-%20antes.png">
+        </div>
       </li>
-      <li>   
-        Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/8%20consulta%20-%20depois.png">
+      <li>
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado após a consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/8%20consulta%20-%20depois.png">
+        </div>
       </li>
     </ul>
   </li>
@@ -189,12 +217,16 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Listar o nome e telefone dos funcionários da agência Locadora do Romão
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/9%20consulta%20-%20antes.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/9%20consulta%20-%20antes.png">
+        </div>
       </li>
-      <li>   
-        Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/9%20consulta%20-%20depois.png">
+      <li>
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado após a consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/9%20consulta%20-%20depois.png">
+        </div>
       </li>
     </ul>
   </li>
@@ -203,12 +235,16 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
     Listar o id, a data e hora, o id do aluguel, o nome do funcionário e o nome da agência de todas as locações
     <ul>
       <li>
-        Resultado antes da consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/10%20consulta%20-%20antes.png">
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado antes da consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/10%20consulta%20-%20antes.png">
+        </div>
       </li>
-      <li>   
-        Resultado após a consulta ser feita:
-        <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/10%20consulta%20-%20depois.png">
+      <li>
+        <div style="display: flex; flex-direction: column;justify-content: flex-start">
+          <p>Resultado após a consulta ser feita:</p>
+          <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/consultas/img/10%20consulta%20-%20depois.png">
+        </div>
       </li>
     </ul>
   </li>
