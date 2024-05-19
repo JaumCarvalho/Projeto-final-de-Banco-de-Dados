@@ -72,73 +72,133 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
 <ol>
   <li>
     Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>
   </li>
   <li>
     Aumentar o salario dos mecânicos de todas as agências em 5%
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>
   </li>
   <li>
     Deletar todos os clientes que iniciam seu nome com a letra J
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>
   </li>
   <li>
     Após deletar, verifique a integridade do banco ao consultar a tabela locação, visto que José havia feito uma locação e ele foi deletado
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>
   </li>
   <li>
     Listar todos os carros que estão disponíveis para locação
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>>
   </li>
   <li>
     Listar o nome das agências e seus respectivos endereços completos
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>
   </li>
   <li>
     Listar nome, cargo e salario de todos os funcionários
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>
   </li>
   <li>
     Listar nome, nome do cargo e nome da agencia que o funcionário trabalha
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>
   </li>
   <li>
     Listar o nome e telefone dos funcionários da agência Locadora do Romão
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>
   </li>
   <li>
     Listar o id, a data e hora, o id do aluguel, o nome do funcionário e o nome da agência de todas as locações
-    Resultado antes da consulta ser feita:
-    <img src"">
-    Resultado após a consulta ser feita:
-    <img src"">
+    <ul>
+      <li>
+        Resultado antes da consulta ser feita:
+        <img src"">
+      </li>
+      <li>   
+        Resultado após a consulta ser feita:
+        <img src"">
+      </li>
+    </ul>
   </li>
 </ol>
 
