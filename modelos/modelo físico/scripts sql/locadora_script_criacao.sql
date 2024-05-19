@@ -23,7 +23,7 @@ CREATE TABLE tbEndereco (
   PRIMARY KEY (id)
 );
 
--- Criano a tabela Agência
+-- Criando a tabela Agência
 CREATE TABLE tbAgencia (
   id INT NOT NULL,
   nome VARCHAR(20) NOT NULL,
