@@ -52,12 +52,16 @@ Um carro não pode ser arrendado a um aluguel caso não seja feito um aluguel po
 O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários aluguéis de diferentes carros. O cliente pode não fazer o aluguel de um carro caso os que estejam disponíveis não lhe interessem ou em manutenção.
 
 ### Modelo Relacional
+
 <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20relacional.png">
+
 ### Modelo Lógico
+
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20l%C3%B3gico.pdf">Clique para acessá-lo</a>
+
 ### Modelo Físico
-<code>
-  DROP TABLE IF EXISTS tbEndereco;
+```
+DROP TABLE IF EXISTS tbEndereco;
 DROP TABLE IF EXISTS tbAgencia;
 DROP TABLE IF EXISTS tbTelefone_Agencia;
 DROP TABLE IF EXISTS tbAgencia_Endereco;
@@ -213,5 +217,5 @@ CREATE TABLE tbLocacao (
   FOREIGN KEY (id_Funcionario) REFERENCES tbFuncionario (id) ON DELETE CASCADE ON UPDATE CASCADE,
   FOREIGN KEY (id_Agencia) REFERENCES tbAgencia (id) ON DELETE CASCADE ON UPDATE CASCADE
 );
-</code>
+```
 ### Consultas feitas
