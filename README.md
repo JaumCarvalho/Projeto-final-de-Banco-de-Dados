@@ -1,12 +1,15 @@
 # Projeto final de Banco de Dados - Locadora de Carros
 ## Sumário
-<ul>
-  <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados?tab=readme-ov-file#descri%C3%A7%C3%A3o-do-projeto">Descrição do Projeto</a></li>
-  <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados?tab=readme-ov-file#modelo-relacional">Modelo Relacional</a></li>
-  <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados?tab=readme-ov-file#modelo-l%C3%B3gico">Modelo Lógico</a></li>
-  <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados?tab=readme-ov-file#modelo-f%C3%ADsico">Modelo Físico</a></li>
-  <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados?tab=readme-ov-file#consultas-feitas">Consultas feitas</a></li>
-</ul>
+### 1. [Descrição do Projeto](#descricao-do-projeto)
+### 2. [Modelo Relacional](#modelo-relacional)
+### 3. [Modelo Lógico](#modelo-logico)
+### 4. [Modelo Físico](#modelo-fisico)
+### 5. [Consultas feitas](#consultas-feitas)
+
+<hr>
+<hr>
+<hr>
+
 ## Descrição do Projeto
 Este projeto da disciplina de Banco de Dados I, consiste em uma locadora de carros baseada em cinco entidades principais: Cliente, Carro, Aluguel, Funcionário e Agência. Essas entidades estão interligadas por meio de relacionamentos que refletem as operações da locadora, como aluguéis de carros, processamento de aluguéis e atribuição de funcionários às agências.
 
