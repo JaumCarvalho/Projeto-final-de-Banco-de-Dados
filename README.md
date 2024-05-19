@@ -4,9 +4,9 @@
 
 ### 2. [Modelo Relacional](#modelo-relacional-house_with_garden)
 
-### 3. [Modelo Lógico](#modelo-logico-house_with_garden)
+### 3. [Modelo Lógico](#modelo-lógico-house_with_garden)
 
-### 4. [Modelo Físico](#modelo-fisico-house_with_garden)
+### 4. [Modelo Físico](#modelo-físico-house_with_garden)
 
 ### 5. [Consultas feitas](#consultas-feitas-house_with_garden)
 
