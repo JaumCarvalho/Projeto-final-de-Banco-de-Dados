@@ -1,16 +1,16 @@
 # :house_with_garden: Projeto final de Banco de Dados - Locadora de Carros
 ## Sumário
-### 1. [Descrição do Projeto](#descrição-do-projeto-house_with_garden)
-### 2. [Modelo Relacional](#modelo-relacional-house_with_garden)
-### 3. [Modelo Lógico](#modelo-logico-house_with_garden)
-### 4. [Modelo Físico](#modelo-fisico-house_with_garden)
-### 5. [Consultas feitas](#consultas-feitas-house_with_garden)
+### 1. [Descrição do Projeto](#descrição-do-projeto)
+### 2. [Modelo Relacional](#modelo-relacional)
+### 3. [Modelo Lógico](#modelo-logico)
+### 4. [Modelo Físico](#modelo-fisico)
+### 5. [Consultas feitas](#consultas-feitas)
 
 <hr>
 <hr>
 <hr>
 
-## Descrição do Projeto
+## Descrição do Projeto [:house_with_garden:](#house_with_garden-projeto-final-de-banco-de-dados---locadora-de-carros)
 Este projeto da disciplina de Banco de Dados I, consiste em uma locadora de carros baseada em cinco entidades principais: Cliente, Carro, Aluguel, Funcionário e Agência. Essas entidades estão interligadas por meio de relacionamentos que refletem as operações da locadora, como aluguéis de carros, processamento de aluguéis e atribuição de funcionários às agências.
 
 <strong>Cliente contém os seguintes dados armazenados:</strong>
@@ -61,24 +61,24 @@ O funcionário pode não ter processado nenhum aluguel na agência em que trabal
 Um carro não pode ser arrendado a um aluguel caso não seja feito um aluguel por algum cliente.
 O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários aluguéis de diferentes carros. O cliente pode não fazer o aluguel de um carro caso os que estejam disponíveis não lhe interessem ou em manutenção.
 
-## Modelo Relacional
+## Modelo Relacional [:house_with_garden:](#house_with_garden-projeto-final-de-banco-de-dados---locadora-de-carros)
 
 <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20relacional.png">
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20relacional.pdf">Acessar Modelo Relacional em PDF</a>
 <hr>
 
-## Modelo Lógico
+## Modelo Lógico [:house_with_garden:](#house_with_garden-projeto-final-de-banco-de-dados---locadora-de-carros)
 <img src="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20l%C3%B3gico.png">
 <a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20l%C3%B3gico.pdf">Acessar Modelo Lógico em PDF</a>
 <hr>
 
-## Modelo Físico
+## Modelo Físico [:house_with_garden:](#house_with_garden-projeto-final-de-banco-de-dados---locadora-de-carros)
 <ul>
   <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20f%C3%ADsico/scripts%20sql/locadora_script_criacao.sql">Script de criação</a></li>
   <li><a href="https://github.com/JaumCarvalho/Projeto-final-de-Banco-de-Dados/blob/master/modelos/modelo%20f%C3%ADsico/scripts%20sql/locadora_script_povoa.sql">Script de povoamento</a></li>
 </ul>
 
-## Consultas feitas
+## Consultas feitas [:house_with_garden:](#house_with_garden-projeto-final-de-banco-de-dados---locadora-de-carros)
 <ol>
   <li>
     <strong>Inserir um cliente com os seguintes dados: (6, '12345678906', '132435466', 'Juracir Miranda', 'juracir4555@email.com');</strong>
