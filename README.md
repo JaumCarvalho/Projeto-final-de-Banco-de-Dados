@@ -133,7 +133,7 @@ O cliente não pode fazer um aluguel de vários carros, mas pode fazer vários a
         Resultado após a consulta ser feita:
         <img src"">
       </li>
-    </ul>>
+    </ul>
   </li>
   <li>
     Listar o nome das agências e seus respectivos endereços completos
